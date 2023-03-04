@@ -1,2 +1,2 @@
 # Projetos-em-C
-Projetos feitos durante o curso de logica de programação com linguagem C
+Durante o curso logica de programação, fiz alguns projetos em 3 linguagens diferentes, vou deixar neste repositorio os feitos com a linguagem C
